@@ -1,10 +1,10 @@
 {
-    "name": "heaps-svg-lite",
-    "url" : "https://github.com/cardgdev/heaps-svg-lite",
-    "description": "SVG renderer for Heaps.io",
+    "name": "heaps-feather-icons",
+    "url" : "https://github.com/cardgdev/heaps-feather-icons",
+    "description": "API for using open source icons from https://feathericons.com/ in Heaps.io",
     "license": "MIT",
     "tags": [
-      "heaps", "svg"
+      "heaps", "icons"
     ],
     "classPath": "src/",
     "contributors": [
