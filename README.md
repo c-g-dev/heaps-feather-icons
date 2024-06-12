@@ -2,6 +2,9 @@
 
 An API for using open source icons from https://feathericons.com/ in Heaps.io.
 
+```
+haxelib install heaps-feathericons
+```
 
 ## Usage
 ```haxe
